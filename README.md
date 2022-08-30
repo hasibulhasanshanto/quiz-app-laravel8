@@ -13,7 +13,7 @@ email: admin@app.com
 password : password
 ```
 
-## Admin login
+## User login
 
 ```
 email: user@app.com
@@ -23,6 +23,11 @@ password : password
 # Installation
 
 1. **Clone or download this Repository.**
+
+    ```
+    git clone https://github.com/hasibulhasanshanto/quiz-app-laravel8
+    ```
+
 2. **Run the command**
 
     ```
